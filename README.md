@@ -1,2 +1,2 @@
 # Javascript
-A xode repo for Javascript
+A code repo for Javascript
